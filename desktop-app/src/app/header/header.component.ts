@@ -127,6 +127,7 @@ export class HeaderComponent implements OnInit {
             {"name":"VRtuos", "uri": "/sdcard/Android/data/com.PavelMarceluch.VRtuos/files/Midis/", "icon": "https://i.imgur.com/7G0OpJi.png"},
             {"name":"Audica", "uri": "/sdcard/Audica/", "icon": "https://i.imgur.com/40sUjye.png"},
             {"name":"OhShape", "uri": "/sdcard/OhShape/Songs/", "icon": "https://i.imgur.com/yIu0sSQ.png"},
+            {"name":"Audio Trip", "uri": "/sdcard/Android/data/com.KinemotikStudios.AudioTripQuest/files/Songs/", "icon": "https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round2@256.png"},
             {"name":"Oculus", "uri": "/sdcard/Oculus/", "icon": "https://i.imgur.com/LORDvYK.png"}
           ]`;
         }
